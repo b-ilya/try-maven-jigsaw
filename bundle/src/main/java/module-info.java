@@ -1,4 +1,4 @@
-module dev.vinca.learn.mavenjigsaw.bundle {
-    requires dev.vinca.learn.mavenjigsaw.user;
-    
+module dev.vinca.learn_mavenjigsaw_bundle {
+    requires dev.vinca.learn_mavenjigsaw_user;
+
 }

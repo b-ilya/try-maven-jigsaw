@@ -1,4 +1,4 @@
-package dev.vinca.learn.mavenjigsal.impl;
+package dev.vinca.learn.mavenjigsaw.impl;
 
 import dev.vinca.learn.mavenjigsaw.Dice;
 import dev.vinca.learn.mavenjigsaw.service.DiceService;
